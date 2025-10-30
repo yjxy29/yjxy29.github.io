@@ -31,10 +31,11 @@ See our Github site for relevant group codes:
 
 <div class="hf-embed">
   <iframe
-    title="MatterGPT Demo (Hugging Face Space)"
-    src="https://YJXY29-New-world.hf.space"
-    loading="lazy"
-    allow="clipboard-write; microphone; camera; fullscreen"></iframe>
+	src="https://yjxy29-new-world.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
 </div>
 
 - [SLICES: Invertible, Invariant, and String-based Crystal Representation](https://github.com/xiaohang007/SLICES)
